@@ -1,0 +1,61 @@
+                          SERVICIO METEOROLÓGICO NACIONAL
+                      PROYECTO BASES DE DATOS CLIMATOLÓGICOS
+                                     
+00026131
+NAVOJOA (FFCC), NAVOJOA 
+ 
+TEMPERATURA MÁXIMA
+Mes Año   Año Núm.  Valor   Fecha   Se ha   Valor   Fecha   Se ha   Valor  Desv.
+   Inicio Fin Años  Máximo  Máxima Repetido Mínimo  Mínima Repetido Medio Estándar
+
+Ene 1931 1993  41    40.0 1938-01-18   No    12.0 1949-01-09   Sí    27.1   4.7
+Feb 1931 1993  42    43.0 1938-02-11   No    11.0 1966-02-12   No    28.8   4.7
+Mar 1931 1993  41    43.0 1934-03-10   Sí    17.0 1960-03-02   No    31.2   4.8
+Abr 1931 1993  41    46.0 1938-04-29   No    22.0 1990-04-01   No    34.2   4.2
+May 1931 1993  38    49.0 1937-05-18   No    11.0 1991-05-12   No    36.7   4.5
+Jun 1931 1993  40    50.0 1932-06-11   No    29.0 1968-06-08   No    39.0   3.4
+Jul 1931 1993  40    51.0 1936-07-16   No    27.0 1956-07-19   Sí    38.7   3.8
+Ago 1931 1992  37    52.0 1935-08-22   No    23.0 1976-08-21   No    38.2   4.2
+Sep 1931 1992  38    49.0 1937-09-17   Sí    25.0 1967-09-01   No    38.2   4.0
+Oct 1931 1992  37    49.0 1937-10-01   No    17.0 1959-10-10   Sí    36.5   5.0
+Nov 1931 1992  35    48.0 1940-11-07   Sí    16.0 1941-11-18   No    33.4   5.2
+Dic 1931 1992  35    45.0 1937-12-21   Sí    14.0 1991-12-21   No    28.8   4.8
+
+TEMPERATURA MÍNIMA
+Mes Año   Año Núm.  Valor   Fecha   Se ha   Valor   Fecha   Se ha   Valor  Desv.
+   Inicio Fin Años  Máximo  Máxima Repetido Mínimo  Mínima Repetido Medio Estándar
+
+Ene 1931 1993  41    21.0 1945-01-19   Sí    -7.0 1936-01-17   No     7.0   3.7
+Feb 1931 1993  42    18.0 1941-02-15   Sí    -2.0 1956-02-03   Sí     7.5   3.4
+Mar 1931 1993  40    20.0 1957-03-21   Sí     0.0 1967-03-06   No     8.5   3.1
+Abr 1931 1993  41    28.0 1945-04-30   No     1.0 1974-04-25   Sí    10.6   3.4
+May 1931 1993  38    29.0 1958-05-28   No     3.0 1991-05-12   No    13.9   4.3
+Jun 1931 1993  40    40.0 1945-06-25   Sí     5.0 1974-06-04   No    21.0   4.7
+Jul 1931 1993  40    36.0 1945-07-19   Sí     8.0 1974-07-09   No    23.9   3.0
+Ago 1931 1992  37    36.0 1945-08-22   No    11.0 1974-08-02   Sí    23.2   3.0
+Sep 1931 1992  38    35.0 1945-09-03   No    11.0 1969-09-19   No    22.3   2.9
+Oct 1931 1992  37    28.0 1936-10-13   Sí     1.0 1968-10-24   No    17.6   3.8
+Nov 1931 1992  35    31.0 1946-11-13   No     0.0 1946-11-09   No    11.6   4.0
+Dic 1931 1992  35    22.0 1934-12-12   No    -6.0 1991-12-04   No     8.1   4.2
+
+PRECIPITACIÓN
+Mes Año   Año Núm.  Valor   Fecha   Se ha   Valor   Fecha   Se ha   Valor  Desv.
+   Inicio Fin Años  Máximo  Máxima Repetido Mínimo  Mínima Repetido Medio Estándar
+
+Ene 1931 1993  41    58.5 1992-01-11   No     0.0 1931-01-01   Sí     0.6   3.9
+Feb 1931 1993  42    46.0 1973-02-21   No     0.0 1931-02-01   Sí     0.4   2.9
+Mar 1931 1993  41    32.0 1968-03-02   No     0.0 1931-03-01   Sí     0.2   1.9
+Abr 1931 1993  41     5.0 1952-04-20   No     0.0 1931-04-01   Sí     0.0   0.2
+May 1931 1993  37     1.0 1958-05-01   No     0.0 1931-05-01   Sí     0.0   0.0
+Jun 1931 1993  40   110.0 1976-06-29   No     0.0 1931-06-01   Sí     0.4   3.9
+Jul 1931 1993  40   127.0 1940-07-31   No     0.0 1931-07-01   Sí     2.7   8.7
+Ago 1931 1992  37   254.0 1940-08-22   No     0.0 1931-08-02   Sí     3.7  13.0
+Sep 1931 1992  38   141.0 1934-09-22   No     0.0 1931-09-02   Sí     2.3   9.1
+Oct 1931 1992  37    75.0 1958-10-03   No     0.0 1931-10-01   Sí     0.8   5.8
+Nov 1931 1992  35   147.5 1990-11-03   No     0.0 1931-11-01   Sí     0.5   5.6
+Dic 1931 1992  35    73.0 1959-12-09   No     0.0 1931-12-01   Sí     0.6   4.1
+
+EVAPORACIÓN
+Mes Año   Año Núm.  Valor   Fecha   Se ha   Valor   Fecha   Se ha   Valor  Desv.
+   Inicio Fin Años  Máximo  Máxima Repetido Mínimo  Mínima Repetido Medio Estándar
+
